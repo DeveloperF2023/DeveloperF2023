@@ -26,8 +26,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveloperF2023&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperF2023&layout=compact)
 
 ---
@@ -42,7 +40,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/flutter-developer-231b19295/)
+- LinkedIn: [https://www.linkedin.com/in/flutter-developer-231b19295/]
 - Email: developerflutter20@gmail.com
 
 ---
