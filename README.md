@@ -40,7 +40,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/flutter-developer-231b19295/]
+- LinkedIn: https://www.linkedin.com/in/flutter-developer-231b19295/
 - Email: developerflutter20@gmail.com
 
 ---
